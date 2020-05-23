@@ -1,0 +1,13 @@
+{
+  "sast": {
+    "preset": "Mobile",
+    "folderExcludes": "*Tests, Server"
+  },
+  "additionalProperties" : {
+    "cxFlow": {
+      "jira": {
+        "project": "CPT"
+      }
+    }
+  }
+}
